@@ -12,7 +12,7 @@ Installation is extremely simple.
 ## Usage ##
 1. Select code.
 2. use the keyboard shortcut: alt+cmd+v.
-3.See the magic.
+3. See the magic.
 
 ## Problems ##
 Works only on simple extractions.
